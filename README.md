@@ -1,5 +1,13 @@
 # Nomi
 
-Android development preview. [Download Nomi APK (28 MB)](https://github.com/Mhret-e/nomi/raw/refs/heads/main/downloads/Nomi-debug.apk) · [SHA-256 checksum](downloads/Nomi-debug.apk.sha256)
+## Latest development build · 0.2.0
 
-This is a debug-signed test build for Android 9 or later. Supabase is not configured. Android runtime behavior and sensitive permissions have not yet been verified on a running device. Use a spare test phone and leave sensitive permissions off initially.
+[Download Nomi 0.2.0 APK (29 MB)](https://github.com/Mhret-e/nomi/raw/refs/heads/main/downloads/Nomi-0.2.0-debug.apk) · [Checksum](downloads/Nomi-0.2.0-debug.apk.sha256) · [Update notes](downloads/Nomi-0.2.0-notes.md)
+
+Includes the smiling mascot image and animated important-notification banner. After installing, open **Settings → Preview Nomi animation** to try the greeting without granting special permissions.
+
+This is a debug-signed development build for Android 9 or later. Supabase is not configured. The banner was rendered and tested in simulated Android; hardware/OEM notification and overlay behavior still need device testing.
+
+![Banner rendered in simulated Android](downloads/Nomi-0.2.0-banner-preview.png)
+
+[Original 0.1.0 APK](https://github.com/Mhret-e/nomi/raw/refs/heads/main/downloads/Nomi-debug.apk)
