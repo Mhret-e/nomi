@@ -1,5 +1,7 @@
 # Nomi
 
+[Account deletion and support](https://mhret-e.github.io/nomi/) — support requests by email; automatic deletion is awaiting backend deployment.
+
 ## Latest development build · 0.4.0
 
 [Download Nomi 0.4.0 APK](https://github.com/Mhret-e/nomi/raw/refs/heads/main/downloads/Nomi-0.4.0-debug.apk) · [Checksum](downloads/Nomi-0.4.0-debug.apk.sha256) · [Update notes](downloads/Nomi-0.4.0-notes.md) · [Backend setup ZIP](downloads/Nomi-0.4.0-backend-setup.zip)
