@@ -1,6 +1,14 @@
 # Nomi
 
-## Latest development build · 0.3.0
+## Latest development build · 0.4.0
+
+[Download Nomi 0.4.0 APK](https://github.com/Mhret-e/nomi/raw/refs/heads/main/downloads/Nomi-0.4.0-debug.apk) · [Checksum](downloads/Nomi-0.4.0-debug.apk.sha256) · [Update notes](downloads/Nomi-0.4.0-notes.md) · [Backend setup ZIP](downloads/Nomi-0.4.0-backend-setup.zip)
+
+Public Supabase configuration is embedded. Includes the animated smiling mascot and redesigned catch-up, leaderboard, stores and recap, plus local erasure and an authenticated account-deletion client. Android 9+, targeting API 36. Same development signing certificate as earlier APKs.
+
+41 Android tests, 19 Edge/web-client tests and local SQL/RLS checks passed; lint has zero errors and 22 warnings. This is a debug development build. Live Supabase access is blocked in the current workspace; migrations and Edge Functions still require deployment. No confirmed voucher partners or verified venue photos yet. The external deletion page still needs hosting and a support contact.
+
+## Previous development build · 0.3.0
 
 [Download Nomi 0.3.0 APK (29 MB)](https://github.com/Mhret-e/nomi/raw/refs/heads/main/downloads/Nomi-0.3.0-debug.apk) · [Checksum](downloads/Nomi-0.3.0-debug.apk.sha256) · [Update notes](downloads/Nomi-0.3.0-notes.md)
 
